@@ -1,3 +1,6 @@
+# src/step3.py
+# YOLOモデルを使用して画像の物体検出を実行し、結果を表示 さらに、バスのみを抽出して表示する。
+
 import cv2
 from ultralytics import YOLO
 
